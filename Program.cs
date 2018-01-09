@@ -1,6 +1,6 @@
 ﻿
-/* Ch9 Exercise 10a
- * Programmer: Katie Welzbacher
+/* DemoJobs
+ * Programmer: K Welzbacher
  * Date: 3/22/17
  */
  using System;
